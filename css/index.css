@@ -29,10 +29,14 @@ header h1 a{
   display: block;
   background-repeat: no-repeat;
   font-weight: 500;
-  font-size: 26px;
+  font-size: 25px;
   transition: all 1s;
 }
-
+header h1 a span{
+  color: yellow;
+  font-size: 17px;
+  vertical-align: 3px;
+}
 header h1 a:hover{
   text-shadow: 1px 2px 5px white;
   }
@@ -94,7 +98,7 @@ header>div>ul li:nth-child(5) a:hover{
 /* 타이틀영역 */
 div#title{
   height: 100%;
-  background-color: black;
+  background-color: #252830;
   color: #fff;
   position: relative;
 }
@@ -108,31 +112,27 @@ div#title .wrap{
   flex-direction: column;
   align-items:center;
 }
+div#title .wrap div{
+  
+  position: relative;
+  top: -50px;
+}
 div#title .wrap article{
   width: 372px;
   height: 430px;
   background-image: url(../img/myli.png);
   background-size: auto;
-  background-color: white;
+  background-color: whitesmoke;
 }
 div#title .wrap h2{
-  /*! background-color: rgba(0,0,0,0.6); */
-  /*! font-family: 'Dongle', sans-serif; */
-  /*! font-size: 40px; */
-  width: 359px;
+  background-color: rgba(0,0,0,0.4);
+  font-family: 'Dongle', sans-serif;
+  font-size: 28px;
+  width: 514px;
   text-align: center;
   position: absolute;
-  bottom: 200px;
-  animation-duration: 0.5s;
-  animation-iteration-count: 1;
-  animation-fill-mode: forwards;
-  text-shadow: 1px 2px 5px white;
-  transition: all 0.5s;
-}
-div#title .wrap h2:hover{
-  color: white;
-  text-shadow: 1px 1px 7px white;
-  font-size: 26px;
+  bottom: 121px;
+  text-shadow: 1px 2px 5px black;
 }
 div#title .wrap a{
   width: 40px;
@@ -336,15 +336,10 @@ aside a.top{
   display: flex;
   justify-content: center;
   align-items: center;
-  transition: all 0.5s;
   position: absolute;
   bottom: 30px;
   left: calc(50% - 50px);
-  flex-direction: column;
   font-size: 0px;
-  animation-name: updown;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
   background-image: url(../img/updown.png);
   background-size: contain;
 }
@@ -358,6 +353,7 @@ aside a.top{
   100%{ /* 끝 */
     transform: translateY(0px)
   }
+
 
 
 

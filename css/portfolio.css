@@ -117,6 +117,8 @@
 }
 .port img {
   width: 50%;
+  position: relative;
+  top: 18px;
 }
 .port .description {
   float: left;
@@ -125,6 +127,25 @@
   padding: 0 40px 40px;
   overflow: auto;
   box-sizing: border-box;
+}
+.port .description p{
+  
+  margin-bottom: 20px;
+  line-height: 1.4;
+}
+.port .description a{
+  
+  background-color: #00DFEA;
+  color: black;
+  padding: 5px;
+  border-radius: 10px;
+  display: inline-block;
+}
+.port .description a:nth-child(1){
+  
+}
+.port .description a:nth-child(2){
+  
 }
 .port h1 {
   font-size: 35px;
@@ -144,7 +165,10 @@
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
+  background-image: url(../img/item1.jpg);
+  background-size: contain;
 }
+
 .port > * {
   opacity: 1;
   -webkit-transition-delay: 0.5s;
@@ -166,7 +190,7 @@
 }
 .item_open .close {
   opacity: 1;
-  top: 0px;
+  top: -30px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;

@@ -28,8 +28,9 @@
 
 
 ## 스크린샷 또는 데모
-(https://github.com/ycch07/pf/assets/142772606/261fa7d0-c62b-465a-adb4-a1726f589b6a)(https://github.com/ycch07/pf/assets/142772606/c246ed26-b188-4aa9-be63-1d3b80a901e5) 
-(https://github.com/ycch07/pf/assets/142772606/3332c46e-b7b3-482c-9854-95c40a9ed931)
+![Screenshot 2023-10-23 at 11-03-11 YCHY 포트폴리오](https://github.com/ycch07/pf/assets/142772606/67f6e2b8-2ed8-4c89-9623-d504696ed568)
+![Screenshot 2023-10-23 at 11-04-32 YCHY 포트폴리오](https://github.com/ycch07/pf/assets/142772606/0768a325-216d-4471-86e8-cd1f4ff3ac2a)
+![Screenshot 2023-10-23 at 11-05-06 YCHY 포트폴리오](https://github.com/ycch07/pf/assets/142772606/3011940d-685d-41b9-bd2e-2f2ad1628b4b)
 
 
 

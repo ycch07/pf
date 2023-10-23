@@ -1,14 +1,13 @@
-(README 파일을 작성할 때, 명확하고 정보를 잘 전달할 수 있도록 노력하세요. 이 파일은 취업 또는 협업 기회를 위한 중요한 자료가 될 수 있습니다.)
 # 프로젝트 명 : 윤창현 포트폴리오 홈페이지
 
 ## 프로젝트 목표
 취업을 위한 포트폴리오와 진척도 상황, 내 역량을 표시하기 위함
 ## 기술 스텍
-- HTML,
-- css,
-- javascript,
-- jquery,
-- sass,
+- HTML
+- css
+- javascript
+- jquery
+- sass
 - visual studio code
 
 ## 기능 및 섹션
@@ -30,6 +29,7 @@
 
 
 ## 작성자 정보
+윤창현
 
 E-mail = dbsckdgus0701@gmail.com
 

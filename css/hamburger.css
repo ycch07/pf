@@ -8,10 +8,11 @@
     outline: none;
     padding: 0;
     pointer-events: initial;
-    position: relative;
+    position: fixed;
     vertical-align: middle;
     width: 50px;
     z-index: 1110;
+    right: 47px;
   }
   .toggle-menu span {
     background-color: #fff;

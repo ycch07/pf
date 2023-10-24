@@ -344,6 +344,27 @@ main section{
 #about .wrap div ul:nth-child(1){
   margin-right: 40px;
 }
+#about .wrap div ul.\#{
+  
+  display: flex;
+  margin-top: 50px;
+}
+#about .wrap div ul.\# li{
+  
+  margin-right: 20px;
+  font-weight: 1000;
+  font-size: 30px;
+}
+#about .wrap div ul.\${
+  display: flex;
+}
+#about .wrap div ul.\$ li{
+  line-height: 2;
+  color: #fff;
+  font-size: 30px;
+  font-weight: 1000;
+  margin-right: 20px;
+}
 #about .wrap div ul li{
   line-height: 2;
   color: #fff;
